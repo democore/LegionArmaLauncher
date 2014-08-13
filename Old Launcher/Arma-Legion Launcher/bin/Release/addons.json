@@ -1,0 +1,85 @@
+{
+	"version" : "1.2.3",
+	"addons" : [
+		{
+			"name" : "Automatisch Server Keys  mit Client syncronisieren",
+			"Link" : "http://www.legion-arma3.de/legionlauncher/downloads/Keys.rar"
+		},
+		{
+			"name" : "A3C: Nametag Mod",
+			"Link" : "http://www.legion-arma3.de/legionlauncher/downloads/@A3C_Nametag.rar"
+		},
+		{
+			"name" : "ARMA 3 Map Pack ( 12.03.2014: Update auf v1.4 jetzt verfügbar)",
+			"Link" : "http://www.legion-arma3.de/legionlauncher/downloads/@A3MapPack.rar"
+		},
+		{
+			"name" : "ARMA 2 Heli Pack",
+			"Link" : "http://www.legion-arma3.de/legionlauncher/downloads/@ArmA2Helis.rar"
+		},
+		{
+			"name" : "CBA",
+			"Link" : "http://www.legion-arma3.de/legionlauncher/downloads/@CBA.rar"
+		},
+		{
+			"name" : "EricJ Weapons Pack",
+			"Link" : "http://www.legion-arma3.de/legionlauncher/downloads/@EricJWeapons.rar"
+		},
+		{
+			"name" : "FA-18",
+			"Link" : "http://www.legion-arma3.de/legionlauncher/downloads/@FA18.rar"
+		},
+		{
+			"name" : "Head Range",
+			"Link" : "http://www.legion-arma3.de/legionlauncher/downloads/@HeadRange.rar"
+		},
+		{
+			"name" : "JointRails",
+			"Link" : "http://www.legion-arma3.de/legionlauncher/downloads/@JointRails.rar"
+		},
+		{
+			"name" : "JSRS 2.1",
+			"Link" : "http://www.legion-arma3.de/legionlauncher/downloads/@JSRS.rar"
+		},
+		{
+			"name" : "M4&M16 Weapons Pack",
+			"Link" : "http://www.legion-arma3.de/legionlauncher/downloads/@M4&M16.rar"
+		},
+		{
+			"name" : "MagRepack",
+			"Link" : "http://www.legion-arma3.de/legionlauncher/downloads/@MagRepack.rar"
+		},
+		{
+			"name" : "ModularRealism",
+			"Link" : "http://www.legion-arma3.de/legionlauncher/downloads/@ModularRealism.rar"
+		},
+		{
+			"name" : "ModularRealism_JSRS",
+			"Link" : "http://www.legion-arma3.de/legionlauncher/downloads/@ModularRealism_jsrs.rar"
+		},
+		{
+			"name" : "TaskForceRadio",
+			"Link" : "http://www.legion-arma3.de/legionlauncher/downloads/@TaskForceRadio.rar"
+		},
+		{
+			"name" : "USSOCOM 75th Ranger",
+			"Link" : "http://www.legion-arma3.de/legionlauncher/downloads/@USUniforms.rar"
+		},
+		{
+			"name" : "XMedSys - XActionUi",
+			"Link" : "http://www.legion-arma3.de/legionlauncher/downloads/@XActionUi.rar"
+		},
+		{
+			"name" : "XMedSys - XEventSystem",
+			"Link" : "http://www.legion-arma3.de/legionlauncher/downloads/@XEventSystem.rar"
+		},
+		{
+			"name" : "XMedSys - XLib",
+			"Link" : "http://www.legion-arma3.de/legionlauncher/downloads/@XLib.rar"
+		},
+		{
+			"name" : "XMedSys",
+			"Link" : "http://www.legion-arma3.de/legionlauncher/downloads/@XMedSys.rar"
+		}
+	]
+}

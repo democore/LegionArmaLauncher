@@ -1,0 +1,23 @@
+<Window x:Class="PhoenixLoader.ProfilChanger"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Profil bearbeiten" Height="421" Width="310" Icon="/PhoenixLoader;component/logo.ico">
+  <Grid>
+    <TextBox Name="textName" Height="23" HorizontalAlignment="Left" Margin="12,35,0,0" VerticalAlignment="Top"
+             Width="264"/>
+    <Label Name="label1" Content="Name" Height="28" HorizontalAlignment="Left" Margin="12,12,0,0"
+           VerticalAlignment="Top"/>
+    <ListBox Name="listAddons" Height="202" HorizontalAlignment="Left" Margin="12,92,0,0"
+             VerticalAlignment="Top" Width="264"/>
+    <Label Name="label2" Content="Addons" Height="28" HorizontalAlignment="Left" Margin="12,64,0,0"
+           VerticalAlignment="Top"/>
+    <ComboBox Name="cmbAddons" Height="23" HorizontalAlignment="Left" Margin="12,300,0,0" VerticalAlignment="Top"
+              Width="183"/>
+    <Button Click="btnAdd_Click" Name="btnAdd" Content="Hinzufügen" Height="23" HorizontalAlignment="Left"
+            Margin="201,300,0,0" VerticalAlignment="Top" Width="75"/>
+    <Button Click="btnAbort_Click" Name="btnAbort" Content="Abbrechen" Height="23" HorizontalAlignment="Left"
+            Margin="201,347,0,0" VerticalAlignment="Top" Width="75"/>
+    <Button Click="btnAccept_Click" Name="btnAccept" Content="Annehmen" Height="23" HorizontalAlignment="Left"
+            Margin="12,347,0,0" VerticalAlignment="Top" Width="75"/>
+  </Grid>
+</Window>

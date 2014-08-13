@@ -1,0 +1,22 @@
+C:\Users\Niky\Documents\Visual Studio 2010\Projects\ArmaLegionLauncher\Arma-Legion Launcher\obj\Debug\enternameforprofile.baml
+C:\Users\Niky\Documents\Visual Studio 2010\Projects\ArmaLegionLauncher\Arma-Legion Launcher\obj\Debug\mainwindow.baml
+C:\Users\Niky\Documents\Visual Studio 2010\Projects\ArmaLegionLauncher\Arma-Legion Launcher\obj\Debug\profilchanger.baml
+C:\Users\Niky\Documents\Visual Studio 2010\Projects\ArmaLegionLauncher\Arma-Legion Launcher\obj\Debug\servereditor.baml
+C:\Users\Niky\Documents\Visual Studio 2010\Projects\ArmaLegionLauncher\Arma-Legion Launcher\obj\Debug\enternameforprofile.g.cs
+C:\Users\Niky\Documents\Visual Studio 2010\Projects\ArmaLegionLauncher\Arma-Legion Launcher\obj\Debug\mainwindow.g.cs
+C:\Users\Niky\Documents\Visual Studio 2010\Projects\ArmaLegionLauncher\Arma-Legion Launcher\obj\Debug\profilchanger.g.cs
+C:\Users\Niky\Documents\Visual Studio 2010\Projects\ArmaLegionLauncher\Arma-Legion Launcher\obj\Debug\servereditor.g.cs
+C:\Users\Niky\Documents\Visual Studio 2010\Projects\ArmaLegionLauncher\Arma-Legion Launcher\obj\Debug\PhoenixLoader.Properties.Resources.resources
+C:\Users\Niky\Documents\Visual Studio 2010\Projects\ArmaLegionLauncher\Arma-Legion Launcher\bin\Debug\DropNet.dll
+C:\Users\Niky\Documents\Visual Studio 2010\Projects\ArmaLegionLauncher\Arma-Legion Launcher\bin\Debug\Ionic.Zip.dll
+C:\Users\Niky\Documents\Visual Studio 2010\Projects\ArmaLegionLauncher\Arma-Legion Launcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Niky\Documents\Visual Studio 2010\Projects\ArmaLegionLauncher\Arma-Legion Launcher\bin\Debug\SharpCompress.dll
+C:\Users\Niky\Documents\Visual Studio 2010\Projects\ArmaLegionLauncher\Arma-Legion Launcher\bin\Debug\PhoenixLoader.exe
+C:\Users\Niky\Documents\Visual Studio 2010\Projects\ArmaLegionLauncher\Arma-Legion Launcher\bin\Debug\PhoenixLoader.pdb
+C:\Users\Niky\Documents\Visual Studio 2010\Projects\ArmaLegionLauncher\Arma-Legion Launcher\obj\Debug\PhoenixLoader_MarkupCompile.cache
+C:\Users\Niky\Documents\Visual Studio 2010\Projects\ArmaLegionLauncher\Arma-Legion Launcher\obj\Debug\PhoenixLoader.g.resources
+C:\Users\Niky\Documents\Visual Studio 2010\Projects\ArmaLegionLauncher\Arma-Legion Launcher\obj\Debug\PhoenixLoader.exe
+C:\Users\Niky\Documents\Visual Studio 2010\Projects\ArmaLegionLauncher\Arma-Legion Launcher\obj\Debug\PhoenixLoader.pdb
+C:\Users\Niky\Documents\Visual Studio 2010\Projects\ArmaLegionLauncher\Arma-Legion Launcher\obj\Debug\PhoenixLoader_Content.g.cs
+C:\Users\Niky\Documents\Visual Studio 2010\Projects\ArmaLegionLauncher\Arma-Legion Launcher\obj\Debug\Arma-Legion Launcher.csprojResolveAssemblyReference.cache
+C:\Users\Niky\Documents\Visual Studio 2010\Projects\ArmaLegionLauncher\Arma-Legion Launcher\obj\Debug\Arma-Legion Launcher.csproj.GenerateResource.Cache
